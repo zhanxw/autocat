@@ -1,9 +1,9 @@
 [package]
 name = "autocat"
 version = "0.1.0"
-edition = "2024"
+edition = "2026"
 description = "A command-line tool for transparent decompression of various formats to stdout"
-license = "MIT OR Apache-2.0"
+license = "MIT"
 repository = "https://github.com/zhanxw/autocat"
 readme = "README.md"
 categories = ["command-line-utilities", "compression"]
