@@ -2,6 +2,12 @@
 name = "autocat"
 version = "0.1.0"
 edition = "2024"
+description = "A command-line tool for transparent decompression of various formats to stdout"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/zhanxw/autocat"
+readme = "README.md"
+categories = ["command-line-utilities", "compression"]
+keywords = ["cat", "gzip", "bgzip", "zstd", "lzma"]
 
 [dependencies]
 niffler = "2.5"
